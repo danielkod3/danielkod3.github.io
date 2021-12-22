@@ -1,0 +1,35 @@
+
+#main_wrapper{
+    height: 300px;
+    border-top-style: solid;
+    border-left-style: solid;
+    border-right-style: solid;   
+}
+#main_content{
+    background: red;
+    height: 250px;
+    border-left-style: solid;
+    border-right-style: solid;
+}
+#footer{
+    background: white;
+    height: 200px;
+    border-left-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+}
+#left_main_wrapper{
+    float:left;
+    height: 300px;
+    width: 695px;
+    background: orange;
+}
+#right_main_wrapper{
+    float:right;
+    height: 300px;
+    width: 883px;
+    background: green;
+}
+.clear{
+    clear:both
+}
